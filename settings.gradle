@@ -1,2 +1,5 @@
-rootProject.name = 'Recitation0'
+ class RecitationZero {
+     static void main(String [] args) {System.out.println("Hello World")}
+}
+
 
